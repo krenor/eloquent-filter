@@ -73,7 +73,7 @@ Note that this package **currently only supports the equal operator** for filter
 
 ## Contributing
 
-If you believe you have found an issue, please report it using the [GitHub issue tracker](https://github.com/deringer/laravel-nullable-fields/issues),
+If you believe you have found an issue, please report it using the [GitHub issue tracker](https://github.com/krenor/eloquent-filter/issues),
 or better yet, fork the repository and submit a [pull request](https://github.com/krenor/eloquent-filter/blob/master/CONTRIBUTING.md).
 
 
