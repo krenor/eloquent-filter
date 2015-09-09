@@ -12,8 +12,8 @@ Simple and easy filtering an Eloquent Query of [Laravel 5.1](http://laravel.com/
 Add to your root composer.json and install with `composer install` or `composer update`
 
     {
-      require: {
-        "krenor/eloquent-filter": "~1.0"
+      "require": {
+        "krenor/eloquent-filter": "~1.0.0"
       }
     }
 
